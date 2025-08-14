@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-  char q[100]="KMZYDXO ZGZBVIO YDIIZM QJDXZ";
+  char q[100]="WRITE DOWN YOUR QUESTION HERE";
   int i,j,len=strlen(q);
 
   for(i=0;i<25;i++){
@@ -12,3 +12,4 @@ int main(void){
   }
   return 0;
 }
+
